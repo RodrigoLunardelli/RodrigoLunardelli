@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Rodrigo g. Lunardelli
-- 👀 I’m studying to be a Full Stack Developer
-- 🌱 I’m currently participating in Santander Bootcamp at [ DIO - Digital Innovation One ](https://www.dio.me/)
+- 👋 Hi, I’m Rodrigo g. Lunardelli;
+- 👀 I’m studying to be a Full Stack Developer;
+- 🌱 I’m currently participating in Santander Bootcamp at [ DIO - Digital Innovation One ](https://www.dio.me/);
